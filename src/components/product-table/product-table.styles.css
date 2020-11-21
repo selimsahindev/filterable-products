@@ -1,0 +1,13 @@
+.title-row {
+  display: flex;
+  font-weight: bold;
+  font-size: 1.17em;
+}
+
+.title-name {
+  width: 40%;
+}
+
+.title-price {
+  width: 60%;
+}

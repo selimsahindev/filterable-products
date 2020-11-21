@@ -1,0 +1,17 @@
+.product-row {
+  display: flex;
+  height: 26px;
+}
+
+.product-title {
+  width: 40%;
+}
+
+.product-title-red {
+  width: 40%;
+  color: red;
+}
+
+.product-price {
+  width: 60%;
+}
